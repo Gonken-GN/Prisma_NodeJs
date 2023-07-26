@@ -22,7 +22,6 @@ export const getProducts = async (
   }
 };
 
-
 export const getProductsById = async (
 /** @type import('express').Request */ req,
   /** @type import('express').Response */ res,
